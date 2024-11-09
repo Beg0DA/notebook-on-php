@@ -6,6 +6,7 @@
 3. Удаление записи.
 4. Добавление новой.
 5. Показ сразу всех страниц списком.
+
 Вся работа сделана на одном классе и использовании методов POST & GET.
 
 This is a simple notebook written in PHP using OOP.
@@ -15,4 +16,5 @@ It has been implemented:
 3. Delete the record.
 4. Adding a new one.
 5. Showing all pages in a list at once.
+
 All the work is done on one class and using POST & GET methods.
