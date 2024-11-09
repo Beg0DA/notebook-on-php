@@ -1,5 +1,6 @@
 # Записная книга на PHP/Notebook on PHP
 Это простая записная книга написанная на PHP с использованием ООП.
+
 Было реализовано:
 1. Переключение между записями как страницами.
 2. Обновление данных конкретной записи (правда без автоставки текущих данных).
@@ -10,6 +11,7 @@
 Вся работа сделана на одном классе и использовании методов POST & GET.
 
 This is a simple notebook written in PHP using OOP.
+
 It has been implemented:
 1. Switch between records as pages.
 2. Updating the data of a specific record (although without auto-updating the current data).
